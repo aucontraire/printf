@@ -1,7 +1,7 @@
 # Custom printf function
 
 ## Files and functions
-* holberton.h: header file
+* **holberton.h**: header file
   * typedef struct fmt (fmt_t)
   * BUFFER_SIZE
 * printf.c: main custom _printf function
