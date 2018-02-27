@@ -5,7 +5,7 @@
   * typedef struct fmt (fmt_t)
   * BUFFER_SIZE
 * **printf.c**: main custom _printf function
-  * *char *cs(char c)* - convert char to str
+  * _char *cs(char c)_ - convert char to str
   * *char *none(char c)* - no match found for format but % found
   * *int _printf(const char *format, ...)* - custom printf function
 * **_strlen.c**
