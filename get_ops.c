@@ -22,6 +22,7 @@ char *(*get_ops(char omar))(va_list)
 		/*{"o", _octal},*/
 		{"r", _rev},
 		{"R", rot13},
+		{"b", binary},
 		{NULL, NULL}
 	};
 

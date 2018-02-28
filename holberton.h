@@ -30,6 +30,7 @@ char *_ui(va_list unsign);
 char *rot13(va_list str);
 char *_octal(va_list args);
 char *_rev(va_list args);
+char *binary(va_list args);
 char *_memcpy(char *dest, char *src, unsigned int n, unsigned int buffer);
 int memalloc(char *buff, int len2, char *buffer_2, int len1, double *total);
 char *cs(char c);
